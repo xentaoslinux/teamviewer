@@ -1,2 +1,2 @@
 # teamviewer
-[Import] Long Distance Communication Media
+[Restricted] Long Distance Communication Media
